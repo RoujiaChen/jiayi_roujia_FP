@@ -3,7 +3,7 @@ title: "Drinking Water & Sanitation"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "This is the description of drinking water sources and sanitation across countries."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
@@ -35,7 +35,4 @@ Lastly, the measles incidence produced using the HvPlot package:
 
 ## Notes
 
-- See the [raw source code](https://raw.githubusercontent.com/MUSA-550-Fall-2020/github-pages-starter/master/_posts/2019-04-13-measles-charts.md) of this post for details on how these charts were embedded.
 - See the [lecture 13A slides](https://github.com/MUSA-550-Fall-2020/week-13/blob/master/lecture-13A.ipynb) for the code that produced these plots.
-
-**Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
