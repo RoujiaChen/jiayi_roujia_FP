@@ -43,7 +43,10 @@ Initially, we plot the correlation matrix for all features. Since variables in t
 ### Best model: Random forest
 Among our three models, Random Forest has the best performance (R-squared = 0.8526 on the 20% test set). On the training set, R-squared for Random Forest is around 0.8 while it is around 0.7 on Decision Tree and 0.5 on Linear Regression. Among the features, drinking water sources is the most imfluencial feature.
 
+assets:
 ![feature_importance]({{ site.url }}{{ site.baseurl }}/assets/images/feature_importance.png)
+
+charts:
 ![feature_importance]({{ site.url }}{{ site.baseurl }}/charts/feature_importance.png)
 
 ### Conclusion
