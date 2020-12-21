@@ -2,17 +2,19 @@
 title: "Under-Five Mortality"
 date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: [dataviz, altair, hvplot, holoviews,child_mortality]
 excerpt: "This is the description of stillbirth, neonatal, infant, and child mortality rates."
 altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+  altair-chart-1: "charts/chart_mor2.json"
+  altair-chart-2:"charts/chart_mor3.json"
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/chart_mor1.html", "500"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
-
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+## Overview: Under-five Mortality
+Under-five mortality, according to [NUICEF](https://data.unicef.org/topic/child-survival/under-five-mortality/):
+The global under-five mortality rate declined by 59 per cent, from 93 deaths per 1,000 live births in 1990 to 38 in 2019. Despite this considerable progress, improving child survival remains a matter of urgent concern. In 2019 alone, roughly 14,000 under-five deaths occurred every day, an intolerably high number of largely preventable child deaths. In this post, we divided the under-five mortality into 4 categories: stillbirth (die before/during delivery), 
 
 ## Altair Example
 
