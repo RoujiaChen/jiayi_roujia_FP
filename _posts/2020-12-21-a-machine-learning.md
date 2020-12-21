@@ -24,6 +24,10 @@ Firstly, .
 
 <div id="altair-chart-1"></div>
 
+<p align="center">
+  <img width="600" height="300" id="altair-chart-1">
+</p>
+
 
 
 ## Prediction Models
