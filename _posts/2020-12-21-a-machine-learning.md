@@ -45,8 +45,6 @@ Initially, we plot the correlation matrix for all features. Since variables in t
 
 ![feature_importance]({{ site.url }}{{ site.baseurl }}/charts/correlation_1.png)
 
-![feature_importance]({{ site.url }}{{ site.baseurl }}/charts/correlation_2.png)
-
 ![feature_importance]({{ site.url }}{{ site.baseurl }}/charts/sub_correlation.png)
 
 ### Best model: Random forest
