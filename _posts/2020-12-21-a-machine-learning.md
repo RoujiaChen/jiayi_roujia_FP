@@ -25,6 +25,13 @@ Firstly, .
 
 <div id="altair-chart-1"></div> <div id="altair-chart-2"></div>
 
+<p>
+  <div id="altair-chart-1"></div>
+  <div id="altair-chart-2"></div> 
+</p>
+
+
+
 ## Prediction Models
 
 ### Feature selection
