@@ -5,13 +5,13 @@ published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "This is the description of drinking water sources and sanitation facilities."
 altair-loader:
-  altair-chart-1: "charts/chart_wat1.json"
+  altair-chart-1: ["charts/chart_wat1.json","400","600]
   altair-chart-2: "charts/chart_wat2.json"
   altair-chart-3: "charts/chart_sani1.json"
   altair-chart-4: "charts/chart_sani2.json"
 hv-loader:
-  hv-chart-1: ["charts/choropleth_wat5yrAF.html", "400"]
-  hv-chart-2: ["charts/choropleth_sani5yr.html", "400"] 
+  hv-chart-1: ["charts/choropleth_wat5yrAF.html", "600"]
+  hv-chart-2: ["charts/choropleth_sani5yr.html", "600"] 
 toc: true
 toc_sticky: true
 ---
@@ -66,4 +66,4 @@ Based on our previous analysis, Africa is the palce that shows an obvious declin
 
 Compare the chropleth with the terrain of Africa (retrieved from google map), countries located in desert areas are more likely to have higher proportion of people practising open defectation, such as Niger and Chad.
 
-<img src="https://github.com/RoujiaChen/jiayi_roujia_FP/blob/master/charts/africa.png" width="338" height="340">
+<img src="https://github.com/RoujiaChen/jiayi_roujia_FP/blob/master/charts/africa.png" alt="Africa_Terrain" width="338" height="340">
