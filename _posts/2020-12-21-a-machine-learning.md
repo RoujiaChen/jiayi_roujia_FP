@@ -5,8 +5,7 @@ published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "This is the description of cluster analysis and prediction models."
 altair-loader:
-  altair-chart-1: "charts/cluster2_plot.json"
-  altair-chart-2: "charts/cluster3_plot.json"
+  altair-chart-1: "charts/clusters_plot.json"
 
 toc: true
 toc_sticky: true
@@ -23,12 +22,7 @@ Firstly, .
 
 ### k=2 vs k=3
 
-<div id="altair-chart-1"></div> <div id="altair-chart-2"></div>
-
-<p>
-  <div id="altair-chart-1"></div>
-  <div id="altair-chart-2"></div> 
-</p>
+<div id="altair-chart-1"></div>
 
 
 
