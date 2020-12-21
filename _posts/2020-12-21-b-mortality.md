@@ -6,6 +6,7 @@ tags: [dataviz, altair, hvplot, holoviews,child_mortality]
 excerpt: "This is the description of stillbirth, neonatal, infant, and child mortality rates."
 altair-loader:
   altair-chart-1: "charts/chart_mor2.json"
+altair-loader:
   altair-chart-2:"charts/chart_mor3.json"
 hv-loader:
   hv-chart-1: ["charts/chart_mor1.html", "500"] # second argument is the height
