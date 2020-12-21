@@ -27,8 +27,9 @@ Firstly, .
 <div align="center" width="600" height="300" id="altair-chart-1"></div>
 
 <p align="center">
-  <img width="600" height="300" src="charts/clusters_plot.json">
+  <img width="600" height="300" src="./charts/clusters_plot.json">
 </p>
+
 
 
 
