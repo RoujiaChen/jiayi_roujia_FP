@@ -34,9 +34,9 @@ The chart below shows the cross-year change in world average mortality rates fro
 
 ## Averages Mortality Rates in Different Continents
 
-Lastly, the measles incidence produced using the HvPlot package:
+Even though the world average shows a decreasing trend, there might be a huge disparity across regions. Thus, the stacked bar chart below agregates the under-five motality rate by categories. It's obvious that Arican families suffered the most from child mortality and about 120 babies will die before the age of five. It's not suprising to see that European countries have the lowest under-five mortality compared to others.
 
-<div id="hv-chart-1"></div>
+<div id="chart_mor2.json"></div>
 
 ## Notes
 
