@@ -5,8 +5,7 @@ published: true
 tags: [clustering, prediction, machine learning, dataviz, altair]
 excerpt: "This is the description of cluster analysis and prediction models."
 altair-loader:
-  altair-chart-1: "charts/cluster2_plot.json"
-  altair-chart-2: "charts/cluster3_plot.json"
+  altair-chart-1: "charts/clusters_plot.json"
 
 toc: true
 toc_sticky: true
@@ -34,7 +33,6 @@ For each cluster, the mean values in these four aspects, together with cluster s
 When dividing into 2 clusters, it can be found that one cluster has very low child mortality rate, very high proportion of using improved drinking water sources, very low proportion of practising open defecation, and very high proportion of receiving DTP vaccination. In the contrast, another cluster has the opposite situations. In general, these two clusters may represent developed countries and less developed countries. When dividing into 3 clusters, basically the less developed countries are further divided into two clusters.
 
 <div id="altair-chart-1"></div>
-<div id="altair-chart-2"></div>
 
 To conclude, we think our dataset can be well divided into three clusters, and they may represent different levels of country's development.
 
