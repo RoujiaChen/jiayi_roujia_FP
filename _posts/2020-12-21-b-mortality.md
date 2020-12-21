@@ -3,7 +3,7 @@ title: "Under-Five Mortality"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "This is the description of stillbirth, neonatal, infant, and child mortality rates across countries."
+excerpt: "This is the description of stillbirth, neonatal, infant, and child mortality rates."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
