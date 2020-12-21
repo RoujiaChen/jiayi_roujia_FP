@@ -1,5 +1,5 @@
 ---
-title: "Immunization"
+title: "Vaccination"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
