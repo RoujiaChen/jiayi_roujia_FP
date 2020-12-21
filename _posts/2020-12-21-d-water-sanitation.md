@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "This is the description of drinking water sources and sanitation facilities."
 altair-loader:
-  altair-chart-1: ["charts/chart_wat1.json","400","600"]
+  altair-chart-1: ["charts/chart_wat1.json","600"]
   altair-chart-2: "charts/chart_wat2.json"
   altair-chart-3: "charts/chart_sani1.json"
   altair-chart-4: "charts/chart_sani2.json"
