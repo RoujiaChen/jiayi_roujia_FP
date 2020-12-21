@@ -76,7 +76,7 @@ df_final.columns = ['Country', 'Year', 'geometry', 'Continent',
 
 ## A Quick Visualization of Key Indicators
 
-Bubble charts below provide a quick two-way relationship visualization of the four perspectives. From both plots we can see a cross-continent disparity
+Bubble charts below provide a quick two-way relationship visualization of the four perspectives (child mortality as the size of the bubble). From both plots we can see a cross-continent disparity. We will dig deeper into the disparity among countries and across time with following posts. 
 
 <div id="altair-chart-1"></div>
 <div id="altair-chart-2"></div>
