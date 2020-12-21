@@ -1,5 +1,5 @@
 ---
-title: "Sanitation"
+title: "Drinking Water & Sanitation"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
