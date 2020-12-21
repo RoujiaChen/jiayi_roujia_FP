@@ -64,7 +64,6 @@ Based on our previous analysis, Africa is the palce that shows an obvious declin
 
 <div id="hv-chart-2"></div>
 
-Compare the chropleth with the terrain of Africa, countries located in desert areas are more likely to have higher proportion of people practising open defectation, such as Niger and Chad.
+Compare the chropleth with the terrain of Africa (retrieved from google map), countries located in desert areas are more likely to have higher proportion of people practising open defectation, such as Niger and Chad.
 
-![Africa_Terrain](https://github.com/RoujiaChen/jiayi_roujia_FP/blob/master/charts/africa.png | )
-<img src="https://github.com/RoujiaChen/jiayi_roujia_FP/blob/master/charts/africa.png" alt="alt text" width="150" height="200">
+<img src="https://github.com/RoujiaChen/jiayi_roujia_FP/blob/master/charts/africa.png" alt="Africa_Terrain" width="338" height="340">
