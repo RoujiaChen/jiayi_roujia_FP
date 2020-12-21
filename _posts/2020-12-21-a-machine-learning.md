@@ -20,13 +20,13 @@ Firstly, we calculate the mean values for each country during 2010-2019, and use
 
 ### k=2 vs k=3
 To have a better understanding and better visualization, we choose four indicators from the four aspects: 
-* *Water_Improved*: 
-* *Open_Defecation*:
-* *DTP_Third*:
-* *Child Mortality Rate*:
+* *Water_Improved*: Proportion of population using improved drinking water sources
+* *Open_Defecation*: Proportion of population practising open defecation
+* *DTP_Third*: Percentage of surviving infants who received the third dose of DTP-containing vaccine
+* *Child Mortality Rate*: Deaths (aged 1-4 years) per 1,000 live births
 For each cluster, the mean values in these four aspects, together with cluster sizes, are calculated and compared. The results are as below:
 
-When dividing into 2 clusters, it can be found that one cluster has very low child mortality rate, very high proportion of using improved drinking water sources, very low proportion of using open defecation, and very high proportion of receiving DTP vaccination. In the contrast, another cluster has the opposite situations. In general, these two clusters may represent developed countries and less developed countries. When dividing into 3 clusters, basically the less developed countries are further divided into two clusters.
+When dividing into 2 clusters, it can be found that one cluster has very low child mortality rate, very high proportion of using improved drinking water sources, very low proportion of practising open defecation, and very high proportion of receiving DTP vaccination. In the contrast, another cluster has the opposite situations. In general, these two clusters may represent developed countries and less developed countries. When dividing into 3 clusters, basically the less developed countries are further divided into two clusters.
 
 <div id="altair-chart-1"></div>
 <div id="altair-chart-2"></div>
