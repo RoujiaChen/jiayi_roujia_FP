@@ -24,8 +24,10 @@ Firstly, .
 
 <div id="altair-chart-1"></div>
 
+<div align="center" width="600" height="300" id="altair-chart-1"></div>
+
 <p align="center">
-  <img width="600" height="300" id="altair-chart-1">
+  <img width="600" height="300" src="charts/clusters_plot.json">
 </p>
 
 
