@@ -18,10 +18,10 @@ maternal and newborn health, menstrual hygiene management, school attendance, or
 
 The purpose of this project is to:
 
-* 01. Describe the time trend and cross-contient & cross-country differences in WASH (using indicators of drinking water and sanitation facility quality);
-* 02. Describe an indicator of child health: under-five mortality;
-* 03. Include and describe the other factor that might influence child health: infant immunization coverage;
-* 04. Use unsupervised and supervised machine learning to study the interaction between child mortality, immunization, and WASH.
+01. Describe the time trend and cross-contient & cross-country differences in WASH (using indicators of drinking water and sanitation facility quality);
+02. Describe an indicator of child health: under-five mortality;
+03. Include and describe the other factor that might influence child health: infant immunization coverage;
+04. Use unsupervised and supervised machine learning to study the interaction between child mortality, immunization, and WASH.
 
 
 ## Data Source
