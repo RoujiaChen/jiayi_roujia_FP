@@ -56,6 +56,3 @@ Among our three models, Random Forest has the best performance (R-squared = 0.85
 ### Conclusion
 To conclude, we can use indicators in drinking water sources, sanitation, and vaccination to predict child mortality, and the accuracy is high. In particular, drinking water is the most important feature influencing the child mortality. To improve the living standards in less developed regions, especially for child health, better drinking water sources is essential.
 
-## Notes
-
-- See the [lecture 13A slides](https://github.com/MUSA-550-Fall-2020/week-13/blob/master/lecture-13A.ipynb) for the code that produced these plots.
