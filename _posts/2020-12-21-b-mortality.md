@@ -9,7 +9,7 @@ altair-loader:
 altair-loader:
   altair-chart-2:"charts/chart_mor3.json"
 hv-loader:
-  hv-chart-1: ["charts/chart_mor1.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/chart_mor1.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -37,7 +37,12 @@ The chart below shows the cross-year change in world average mortality rates fro
 
 Even though the world average shows a decreasing trend, there might be a huge disparity across regions. Thus, the stacked bar chart below agregates the under-five motality rate by categories. It's obvious that Arican families suffered the most from child mortality and about 120 babies will die before the age of five. It's not suprising to see that European countries have the lowest under-five mortality compared to others.
 
-<div id="chart_mor2.json"></div>
+<div id="altair-chart-1"></div>
+
+## Current Geospatial Distribution of 1-4 Child Mortality by Countries
+To show the cross-country disparities in child mortality, the chart below plot the earliest (2019) 1-4-year-old child mortalities in circles. Each circle represents one country, which is colored by continents, located according to the centroid coordinate, and sized by the percentage higher than 2019 world average. Large circles appear in Arica, Central America, and some Oceanian countries, which means that these areas' child mortality rates are far higher than the average level.   
+
+<div id="altair-chart-2"></div>
 
 ## Notes
 
