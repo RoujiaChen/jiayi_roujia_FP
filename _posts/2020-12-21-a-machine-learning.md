@@ -5,8 +5,8 @@ published: true
 tags: [clustering, prediction, machine learning, dataviz, altair]
 excerpt: "This is the description of cluster analysis and prediction models."
 altair-loader:
-  altair-chart-1: "charts/cluster1_plot.json"
-  altair-chart-2: "charts/cluster2_plot.json"
+  altair-chart-1: "charts/cluster2_plot.json"
+  altair-chart-2: "charts/cluster3_plot.json"
 
 toc: true
 toc_sticky: true
