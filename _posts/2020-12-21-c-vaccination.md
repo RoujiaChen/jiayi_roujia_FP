@@ -2,23 +2,27 @@
 title: "Vaccination"
 date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: [dataviz, altair, hvplot, holoviews, vaccination, health]
 excerpt: "This is the description of vaccination rates."
 altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+  altair-chart-1: "charts/chart_vac2.json"
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/chart_vac1.html", "400"] # second argument is the height
+  hv-chart-2: ["charts/chart_vac3.html", "400"]
 toc: true
 toc_sticky: true
 ---
+## Overview: Vaccination for Infants
+**Immunization** is one of the most cost-effective public health interventions to date, averting an estimated 2 to 3 million deaths every year ([UNICEF](https://data.unicef.org/topic/child-health/immunization/)). Vaccination is another important perspective to be considered when we tried to compare the health status of children around the world. According to [WHO] (https://www.who.int/news-room/fact-sheets/detail/immunization-coverage), there are a series of recommended basic vaccination types, including Haemophilus influenzae type b (Hib), Meningitis A, Human papillomavirus (HPV), Hepatitis B (Hep_B), measles, polio and tetanus and pertussis vaccine (DTP). Out of these vaccination types, the UNICEF data includes the percentage of surviving infants who receive the third dose of **Hib**, **Hep_B, **DTP**, and **polio** and the coverage of the first dose of **measles**. 
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+## Year Trend: Average Vaccination Rates by Continent
 
-## Altair Example
+The interactive plot below shows the percentage of surviving infants who were vaccinated, grouped by the type of vaccine and you can use the widgets to change the continent.
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
+<div id="hv-chart-1"></div>
 
-<div id="altair-chart-1"></div>
+<div id="hv-chart-2"></div>
+
 
 This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
 
