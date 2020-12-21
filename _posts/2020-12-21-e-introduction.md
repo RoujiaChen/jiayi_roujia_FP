@@ -14,7 +14,7 @@ toc_sticky: true
 
 This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
-## Altair Example
+## Background
 
 Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
@@ -27,11 +27,17 @@ import altair as alt
 alt.renderers.enable('notebook')
 ```
 
-## HvPlot Example
+## Data Processing
 
 Lastly, the measles incidence produced using the HvPlot package:
 
 <div id="hv-chart-1"></div>
+
+### Data cleaning
+
+### GeoDataFrame
+
+### Feature selection
 
 ## Notes
 
