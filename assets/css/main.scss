@@ -11,8 +11,3 @@ article.page {
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-#altair-chart-1 {
-  overflow-x: auto;
-  width: 500px;
-}
