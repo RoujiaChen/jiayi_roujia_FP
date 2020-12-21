@@ -5,9 +5,9 @@ published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "This is the description of cluster analysis and prediction models."
 altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
-hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
+  altair-chart-1: "charts/cluster2_plot.json"
+  altair-chart-2: "charts/cluster3_plot.json"
+
 toc: true
 toc_sticky: true
 ---
@@ -23,9 +23,7 @@ Firstly, .
 
 ### k=2 vs k=3
 
-### Results (k=3)
-
-<div id="altair-chart-1"></div>
+<div id="altair-chart-1"></div> <div id="altair-chart-2"></div>
 
 ## Prediction Models
 
@@ -33,7 +31,6 @@ Firstly, .
 
 Lastly, the measles incidence produced using the HvPlot package:
 
-<div id="hv-chart-1"></div>
 
 ### Modeling
 
