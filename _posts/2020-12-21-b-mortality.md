@@ -30,6 +30,7 @@ All the mortality rates are in the unit of "deaths per 1000 living births".
 ## Year Trend for World Average Mortality Rates 
 
 The chart below shows the cross-year change in world average mortality rates from 2010 to 2019. All rates present a decreasing trend, which means less infants and children have suffered from early-death. 
+
 <div id="hv-chart-1"></div>
 
 
@@ -43,7 +44,3 @@ Even though the world average shows a decreasing trend, there might be a huge di
 To show the cross-country disparities in child mortality, the chart below plot the earliest (2019) 1-4-year-old child mortalities in circles. Each circle represents one country, which is colored by continents, located according to the centroid coordinate, and sized by the percentage higher than 2019 world average. Large circles appear in Arica, Central America, and some Oceanian countries, which means that these areas' child mortality rates are far higher than the average level.   
 
 <div id="altair-chart-2"></div>
-
-## Notes
-
-- See the [lecture 13A slides](https://github.com/MUSA-550-Fall-2020/week-13/blob/master/lecture-13A.ipynb) for the code that produced these plots.
