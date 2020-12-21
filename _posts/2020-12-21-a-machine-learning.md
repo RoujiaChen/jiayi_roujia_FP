@@ -30,8 +30,6 @@ Firstly, .
 
 ### Feature selection
 
-Lastly, the measles incidence produced using the HvPlot package:
-
 
 ### Modeling
 
