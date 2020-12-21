@@ -2,7 +2,7 @@
 title: "Unsupervised & Supervised Machine Learning"
 date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: [clustering, prediction, machine learning, dataviz, altair]
 excerpt: "This is the description of cluster analysis and prediction models."
 altair-loader:
   altair-chart-1: "charts/clusters_plot.json"
