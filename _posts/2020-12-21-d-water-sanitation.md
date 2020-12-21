@@ -7,7 +7,7 @@ excerpt: "This is the description of drinking water sources and sanitation."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/choropleth_sani5yr.html", "500"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
