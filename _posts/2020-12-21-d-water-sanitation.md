@@ -3,7 +3,7 @@ title: "Drinking Water & Sanitation"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "This is the description of drinking water sources and sanitation across countries."
+excerpt: "This is the description of drinking water sources and sanitation."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
