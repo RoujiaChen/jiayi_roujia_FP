@@ -3,20 +3,28 @@ title: "Drinking Water & Sanitation"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "This is the description of drinking water sources and sanitation."
+excerpt: "This is the description of drinking water sources and sanitation facilities."
 altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+  altair-chart-1: "charts/chart_sani1.json"
+  altair-chart-2: "charts/chart_sani2.json"
+  altair-chart-3: "charts/chart_wat1.json"
+  altair-chart-4: "charts/chart_wat2.json"
 hv-loader:
   hv-chart-1: ["charts/choropleth_sani5yr.html", "500"] # second argument is the height
+  hv-chart-2: ["charts/choropleth_wat5yrAF.html", "500"]
 toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+### Overview: Drinking Water and Sanitation Facilities
 
-## Altair Example
+Given the goal of exploring the relationship between WASH and child health, this page will show the description of WASH across the world in the past 10 years.   
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
+### Drinking Water
+
+## Average Proportion of Population Using Different Drinking Water Sources
+
+The stacked bar chart below
 
 <div id="altair-chart-1"></div>
 
