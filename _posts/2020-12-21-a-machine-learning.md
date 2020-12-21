@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 ---
 
-In the previous posts, we have viewed and analyzed the global situations in the four aspects indlucing drinking water sources, sanitation, vaccination, and under-five mortality. In order to further anlayze the the impact of WASH on child health, this post shows how clustering analysis helps us understand the situations in different countries and how prediction models help us predict child mortality based on drinking water sources, sanitation, and vaccination.
+In the previous posts, we have viewed and analyzed the global situations in the four aspects including drinking water sources, sanitation, vaccination, and under-five mortality. In order to further anlayze the impact of WASH on child health, this post shows how clustering analysis helps us understand the situations in different countries and how prediction models help us predict child mortality based on drinking water sources, sanitation, and vaccination.
 
 ## Clustering
 
