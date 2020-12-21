@@ -4,6 +4,9 @@ date: 2020-12-21
 published: true
 tags: [dataviz, pandas, python, UNICEF, WASH]
 excerpt: "This is the introduction of WASH and this project."
+altair-loader:
+  altair-chart-1: "charts/mor_water_san.json"
+  altair-chart-2: "charts/mor_water_vac.json"
 toc: true
 toc_sticky: true
 ---
@@ -70,3 +73,11 @@ df_final.columns = ['Country', 'Year', 'geometry', 'Continent',
                    'Open_Defecation', 'Sanitation_Improved', 'Sanitation_Unimproved',
                    'Measles_First', 'DTP_Third', 'Hib_Third', 'Hep_B_Third', 'Polio_Third']
 ```
+
+## A Quick Visualization of Key Indicators
+
+Bubble charts below provide a quick two-way relationship visualization of the four perspectives. From both plots we can see a cross-continent disparity
+
+<div id="altair-chart-1"></div>
+<div id="altair-chart-2"></div>
+
