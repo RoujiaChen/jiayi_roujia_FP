@@ -43,6 +43,9 @@ Initially, we plot the correlation matrix for all features. Since variables in t
 ### Best model: Random forest
 Among our three models, Random Forest has the best performance (R-squared = 0.8526 on the 20% test set). On the training set, R-squared for Random Forest is around 0.8 while it is around 0.7 on Decision Tree and 0.5 on Linear Regression. Among the features, drinking water sources is the most imfluencial feature.
 
+<img src="charts/feature_importance.png" class="charts" alt=""> </div>
+<img src="https://github.com/RoujiaChen/jiayi_roujia_FP/blob/master/charts/feature_importance.png" alt="">
+
 ### Conclusion
 To conclude, we can use indicators in drinking water sources, sanitation, and vaccination to predict child mortality, and the accuracy is high. In particular, drinking water is the most important feature influencing the child mortality. To improve the living standards in less developed regions, especially for child health, better drinking water sources is essential.
 
