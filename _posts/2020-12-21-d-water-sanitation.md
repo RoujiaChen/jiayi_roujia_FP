@@ -28,7 +28,7 @@ The stacked bar chart below shows the distribution of population in each contine
 
 <div id="altair-chart-1"></div>
 
-### Time Trend and Population using Improved Water Resources by year/continent
+### Time Trend and Population using Improved Water Resources by Year & Continent
 The top line plot shows the change of average percentage of population using improved water resources in each continent through 2010 to 2017 (the data for 2018 & 2019 are still pending for updates). Europe has the highest percentage while Africa has the lowest. However, the percentage has been increasing from 2010 in Africa - more people can get access to improved drinking water there.
 
 In addition to the percentage of population, we are also interested in the absolute amount of population affected by WASH. Thus the bar chart below shows the total population (in million persons) for the selected time period from the top line plot. Even though Asia doesn't have the highest proportion of population, it has the most amount of people drink water from improved sources.
