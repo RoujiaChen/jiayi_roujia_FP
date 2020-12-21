@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised and Supervised Machine Learning"
+title: "Unsupervised & Supervised Machine Learning"
 date: 2020-12-21
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
